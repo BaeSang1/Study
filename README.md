@@ -8,7 +8,7 @@
     is the result of some operations applied to each member of another sequence  or iterable, 
     or to create a subsequence of those elements that satisfy a certain condition.**
     
-    Link : https://docs.python.org/3/tutorial/datastructures.html
+   Link : https://docs.python.org/3/tutorial/datastructures.html
 
   * **리스트 컴프리헨션이란 '리스트 안에 표현식(계산식)과 for문, if문을 한줄에 넣어서 새로운 리스트를 만드는 것'을 말한다.
    여기서 리스트라는 말이 들어가서 리스트만 사용할 수 있을 것 같지만, 
