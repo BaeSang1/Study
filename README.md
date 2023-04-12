@@ -1,1 +1,1 @@
-# Study
+# Class and Study LOG
