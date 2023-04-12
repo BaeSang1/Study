@@ -1,1 +1,1 @@
-# Class and Study LOG
+# STUDY MEMO
